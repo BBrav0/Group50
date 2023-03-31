@@ -10,7 +10,7 @@ Team members and their email addresses:
 
 -James Hathaway jrh230@pitt.edu 
 
--Yang
+-Yang Ye yay112@pitt.edu
 
 Description and links to the datasets used:
 
@@ -26,7 +26,7 @@ Group Assignments:
 
 James- Police Incidents
 
-Yang-
+Yang- 
 
 Elliott- Bike-ability
 
