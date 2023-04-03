@@ -18,7 +18,7 @@ https://data.wprdc.org/dataset/allegheny-county-covid-19-vaccinations/resource/b
 Covid19 Vaccinations by Neighborhood in Allegany County
 
 https://data.wprdc.org/dataset/police-incident-blotter
-Police indicent data in the City of Pittsburgh
+Police indicent data in the City of Pittsburgh (In the last 30 days)
 
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
 
