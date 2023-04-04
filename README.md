@@ -20,7 +20,11 @@ Covid19 Vaccinations by Neighborhood in Allegany County
 https://data.wprdc.org/dataset/police-incident-blotter
 Police indicent data in the City of Pittsburgh (In the last 30 days)
 
+https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
+Public School enrollments in year 2020-2021 school year
+
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
+We are reviewing the best ways to evaluate Pittsburgh neighborhoods via datasets that we're manipulating with pandas in python!
 
 Group Assignments:
 
