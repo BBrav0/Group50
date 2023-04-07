@@ -23,6 +23,9 @@ Police indicent data in the City of Pittsburgh (In the last 30 days)
 https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
 Public School enrollments in year 2020-2021 school year
 
+https://data.wprdc.org/dataset/city-traffic-signs
+The level of traffic heaviness in Pittsburgh
+
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
 We are reviewing the best ways to evaluate Pittsburgh neighborhoods via datasets that we're manipulating with pandas in python!
 
@@ -30,7 +33,7 @@ Group Assignments:
 
 James- Police Incidents
 
-Yang- 
+Yang- Traffic Lights
 
 Elliott- Pittsburgh Public Schools Enrollment by Neighborhood
 
