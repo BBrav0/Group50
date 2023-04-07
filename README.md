@@ -33,7 +33,7 @@ Group Assignments:
 
 James- Police Incidents
 
-Yang- Traffic Lights
+Yang- Traffic Signs
 
 Elliott- Pittsburgh Public Schools Enrollment by Neighborhood
 
